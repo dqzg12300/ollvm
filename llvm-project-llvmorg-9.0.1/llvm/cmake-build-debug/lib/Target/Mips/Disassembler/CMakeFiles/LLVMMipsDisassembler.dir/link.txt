@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMMipsDisassembler.a  CMakeFiles/LLVMMipsDisassembler.dir/MipsDisassembler.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMMipsDisassembler.a

@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "../../bin/llvm-cvtres"
+  "../../bin/llvm-cvtres.pdb"
+  "CMakeFiles/llvm-cvtres.dir/llvm-cvtres.cpp.o"
+  "Opts.inc"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/llvm-cvtres.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

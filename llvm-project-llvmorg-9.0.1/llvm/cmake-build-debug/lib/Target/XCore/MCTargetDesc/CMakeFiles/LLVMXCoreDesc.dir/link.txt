@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMXCoreDesc.a  CMakeFiles/LLVMXCoreDesc.dir/XCoreInstPrinter.cpp.o CMakeFiles/LLVMXCoreDesc.dir/XCoreMCTargetDesc.cpp.o CMakeFiles/LLVMXCoreDesc.dir/XCoreMCAsmInfo.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMXCoreDesc.a

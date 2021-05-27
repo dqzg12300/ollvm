@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMSystemZDesc.a  CMakeFiles/LLVMSystemZDesc.dir/SystemZInstPrinter.cpp.o CMakeFiles/LLVMSystemZDesc.dir/SystemZMCAsmBackend.cpp.o CMakeFiles/LLVMSystemZDesc.dir/SystemZMCAsmInfo.cpp.o CMakeFiles/LLVMSystemZDesc.dir/SystemZMCCodeEmitter.cpp.o CMakeFiles/LLVMSystemZDesc.dir/SystemZMCObjectWriter.cpp.o CMakeFiles/LLVMSystemZDesc.dir/SystemZMCTargetDesc.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMSystemZDesc.a

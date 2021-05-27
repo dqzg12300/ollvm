@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../libLLVMJITLink.a  CMakeFiles/LLVMJITLink.dir/JITLink.cpp.o CMakeFiles/LLVMJITLink.dir/JITLinkGeneric.cpp.o CMakeFiles/LLVMJITLink.dir/JITLinkMemoryManager.cpp.o CMakeFiles/LLVMJITLink.dir/EHFrameSupport.cpp.o CMakeFiles/LLVMJITLink.dir/MachO.cpp.o CMakeFiles/LLVMJITLink.dir/MachO_x86_64.cpp.o CMakeFiles/LLVMJITLink.dir/MachOAtomGraphBuilder.cpp.o
+/usr/bin/ranlib -D ../../libLLVMJITLink.a

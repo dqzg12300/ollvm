@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMWebAssemblyDesc.a  CMakeFiles/LLVMWebAssemblyDesc.dir/WebAssemblyAsmBackend.cpp.o CMakeFiles/LLVMWebAssemblyDesc.dir/WebAssemblyInstPrinter.cpp.o CMakeFiles/LLVMWebAssemblyDesc.dir/WebAssemblyMCAsmInfo.cpp.o CMakeFiles/LLVMWebAssemblyDesc.dir/WebAssemblyMCCodeEmitter.cpp.o CMakeFiles/LLVMWebAssemblyDesc.dir/WebAssemblyMCTargetDesc.cpp.o CMakeFiles/LLVMWebAssemblyDesc.dir/WebAssemblyTargetStreamer.cpp.o CMakeFiles/LLVMWebAssemblyDesc.dir/WebAssemblyWasmObjectWriter.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMWebAssemblyDesc.a

@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../lib/libgtest.a  CMakeFiles/gtest.dir/googletest/src/gtest-all.cc.o CMakeFiles/gtest.dir/googlemock/src/gmock-all.cc.o
+/usr/bin/ranlib -D ../../lib/libgtest.a

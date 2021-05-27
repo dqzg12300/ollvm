@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "../../bin/llvm-extract"
+  "../../bin/llvm-extract.pdb"
+  "CMakeFiles/llvm-extract.dir/llvm-extract.cpp.o"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/llvm-extract.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

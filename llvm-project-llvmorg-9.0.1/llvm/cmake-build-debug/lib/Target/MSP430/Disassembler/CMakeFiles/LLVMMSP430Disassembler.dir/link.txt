@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMMSP430Disassembler.a  CMakeFiles/LLVMMSP430Disassembler.dir/MSP430Disassembler.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMMSP430Disassembler.a

@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMSystemZInfo.a  CMakeFiles/LLVMSystemZInfo.dir/SystemZTargetInfo.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMSystemZInfo.a

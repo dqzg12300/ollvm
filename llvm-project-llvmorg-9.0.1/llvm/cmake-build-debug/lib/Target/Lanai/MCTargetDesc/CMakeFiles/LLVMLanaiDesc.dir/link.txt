@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMLanaiDesc.a  CMakeFiles/LLVMLanaiDesc.dir/LanaiAsmBackend.cpp.o CMakeFiles/LLVMLanaiDesc.dir/LanaiELFObjectWriter.cpp.o CMakeFiles/LLVMLanaiDesc.dir/LanaiInstPrinter.cpp.o CMakeFiles/LLVMLanaiDesc.dir/LanaiMCAsmInfo.cpp.o CMakeFiles/LLVMLanaiDesc.dir/LanaiMCCodeEmitter.cpp.o CMakeFiles/LLVMLanaiDesc.dir/LanaiMCExpr.cpp.o CMakeFiles/LLVMLanaiDesc.dir/LanaiMCTargetDesc.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMLanaiDesc.a

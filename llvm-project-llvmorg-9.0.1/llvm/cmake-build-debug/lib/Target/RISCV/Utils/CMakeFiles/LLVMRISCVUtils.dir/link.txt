@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMRISCVUtils.a  CMakeFiles/LLVMRISCVUtils.dir/RISCVBaseInfo.cpp.o CMakeFiles/LLVMRISCVUtils.dir/RISCVMatInt.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMRISCVUtils.a

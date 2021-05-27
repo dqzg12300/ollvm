@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMRISCVDisassembler.a  CMakeFiles/LLVMRISCVDisassembler.dir/RISCVDisassembler.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMRISCVDisassembler.a

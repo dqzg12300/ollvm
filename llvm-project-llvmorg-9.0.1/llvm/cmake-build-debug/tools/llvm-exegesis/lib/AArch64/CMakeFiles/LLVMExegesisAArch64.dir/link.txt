@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../../lib/libLLVMExegesisAArch64.a  CMakeFiles/LLVMExegesisAArch64.dir/Target.cpp.o
+/usr/bin/ranlib -D ../../../../lib/libLLVMExegesisAArch64.a

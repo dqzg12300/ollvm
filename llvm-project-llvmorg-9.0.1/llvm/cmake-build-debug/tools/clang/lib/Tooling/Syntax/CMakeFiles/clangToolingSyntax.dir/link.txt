@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../../../lib/libclangToolingSyntax.a  CMakeFiles/obj.clangToolingSyntax.dir/BuildTree.cpp.o CMakeFiles/obj.clangToolingSyntax.dir/Nodes.cpp.o CMakeFiles/obj.clangToolingSyntax.dir/Tokens.cpp.o CMakeFiles/obj.clangToolingSyntax.dir/Tree.cpp.o
+/usr/bin/ranlib -D ../../../../../lib/libclangToolingSyntax.a

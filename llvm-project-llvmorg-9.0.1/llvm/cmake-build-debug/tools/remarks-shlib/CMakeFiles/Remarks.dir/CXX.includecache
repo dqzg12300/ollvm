@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/llvm-c/DataTypes.h
+cmath
+-
+math.h
+-
+inttypes.h
+-
+stdint.h
+-
+sys/types.h
+-
+cstddef
+-
+cstdlib
+-
+stddef.h
+-
+stdlib.h
+-
+sys/types.h
+-
+
+../include/llvm-c/Remarks.h
+llvm-c/Types.h
+../include/llvm-c/llvm-c/Types.h
+cstddef
+-
+stddef.h
+-
+
+../include/llvm-c/Types.h
+llvm-c/DataTypes.h
+../include/llvm-c/llvm-c/DataTypes.h
+
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/tools/remarks-shlib/libremarks.cpp
+llvm-c/Remarks.h
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/tools/remarks-shlib/llvm-c/Remarks.h
+

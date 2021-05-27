@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../../../lib/libclangHandleCXX.a  CMakeFiles/obj.clangHandleCXX.dir/handle_cxx.cpp.o
+/usr/bin/ranlib -D ../../../../../lib/libclangHandleCXX.a

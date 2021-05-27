@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMMSP430Desc.a  CMakeFiles/LLVMMSP430Desc.dir/MSP430AsmBackend.cpp.o CMakeFiles/LLVMMSP430Desc.dir/MSP430ELFObjectWriter.cpp.o CMakeFiles/LLVMMSP430Desc.dir/MSP430ELFStreamer.cpp.o CMakeFiles/LLVMMSP430Desc.dir/MSP430InstPrinter.cpp.o CMakeFiles/LLVMMSP430Desc.dir/MSP430MCAsmInfo.cpp.o CMakeFiles/LLVMMSP430Desc.dir/MSP430MCCodeEmitter.cpp.o CMakeFiles/LLVMMSP430Desc.dir/MSP430MCTargetDesc.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMMSP430Desc.a

@@ -1,0 +1,55 @@
+/home/king/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug cmake -G Ninja -DCMAKE_BUILD_TYPE=Debug -DLLVM_ENABLE_PROJECTS=clang ../ -G "CodeBlocks - Unix Makefiles" /home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm
+-- clang project is enabled
+-- clang-tools-extra project is disabled
+-- compiler-rt project is disabled
+-- debuginfo-tests project is disabled
+-- libclc project is disabled
+-- libcxx project is disabled
+-- libcxxabi project is disabled
+-- libunwind project is disabled
+-- lld project is disabled
+-- lldb project is disabled
+-- llgo project is disabled
+-- openmp project is disabled
+-- parallel-libs project is disabled
+-- polly project is disabled
+-- pstl project is disabled
+-- Could NOT find LibXml2 (missing: LIBXML2_LIBRARY LIBXML2_INCLUDE_DIR) 
+-- Native target architecture is X86
+-- Threads enabled.
+-- Doxygen disabled.
+-- Go bindings disabled.
+-- Could NOT find OCaml (missing: OCAMLFIND OCAML_VERSION OCAML_STDLIB_PATH) 
+-- Could NOT find OCaml (missing: OCAMLFIND OCAML_VERSION OCAML_STDLIB_PATH) 
+-- OCaml bindings disabled.
+-- LLVM host triple: x86_64-unknown-linux-gnu
+-- LLVM default target triple: x86_64-unknown-linux-gnu
+/usr/bin/ar: creating t.a
+-- Building with -fPIC
+-- Constructing LLVMBuild project information
+-- Linker detection: GNU ld
+-- Targeting AArch64
+-- Targeting AMDGPU
+-- Targeting ARM
+-- Targeting BPF
+-- Targeting Hexagon
+-- Targeting Lanai
+-- Targeting Mips
+-- Targeting MSP430
+-- Targeting NVPTX
+-- Targeting PowerPC
+-- Targeting RISCV
+-- Targeting Sparc
+-- Targeting SystemZ
+-- Targeting WebAssembly
+-- Targeting X86
+-- Targeting XCore
+-- Clang version: 9.0.1
+-- LLVM FileCheck Found: /home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/cmake-build-debug/bin/FileCheck
+-- Version: 0.0.0
+-- Performing Test HAVE_GNU_POSIX_REGEX -- failed to compile
+-- Performing Test HAVE_POSIX_REGEX -- success
+-- Performing Test HAVE_STEADY_CLOCK -- success
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/cmake-build-debug

@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMWebAssemblyInfo.a  CMakeFiles/LLVMWebAssemblyInfo.dir/WebAssemblyTargetInfo.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMWebAssemblyInfo.a

@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../../../lib/libclangHandleLLVM.a  CMakeFiles/obj.clangHandleLLVM.dir/handle_llvm.cpp.o
+/usr/bin/ranlib -D ../../../../../lib/libclangHandleLLVM.a

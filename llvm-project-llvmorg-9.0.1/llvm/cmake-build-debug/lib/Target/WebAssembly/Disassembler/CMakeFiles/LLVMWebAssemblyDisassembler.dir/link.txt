@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMWebAssemblyDisassembler.a  CMakeFiles/LLVMWebAssemblyDisassembler.dir/WebAssemblyDisassembler.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMWebAssemblyDisassembler.a

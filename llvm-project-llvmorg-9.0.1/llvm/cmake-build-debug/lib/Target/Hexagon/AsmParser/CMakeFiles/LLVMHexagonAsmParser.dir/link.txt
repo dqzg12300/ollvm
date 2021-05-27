@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../../libLLVMHexagonAsmParser.a  CMakeFiles/LLVMHexagonAsmParser.dir/HexagonAsmParser.cpp.o
+/usr/bin/ranlib -D ../../../libLLVMHexagonAsmParser.a

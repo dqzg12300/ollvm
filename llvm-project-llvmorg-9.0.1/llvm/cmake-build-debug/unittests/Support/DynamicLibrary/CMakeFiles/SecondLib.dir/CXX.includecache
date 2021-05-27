@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/unittests/Support/DynamicLibrary/ExportedFuncs.cpp
+PipSqueak.h
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/unittests/Support/DynamicLibrary/PipSqueak.cpp
+PipSqueak.h
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+ExportedFuncs.cpp
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/unittests/Support/DynamicLibrary/ExportedFuncs.cpp
+
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+string
+-
+vector
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar Dqc ../../libLLVMKingEncode.a  CMakeFiles/LLVMKingEncode.dir/KingEncode.cpp.o
+/usr/bin/ranlib -D ../../libLLVMKingEncode.a

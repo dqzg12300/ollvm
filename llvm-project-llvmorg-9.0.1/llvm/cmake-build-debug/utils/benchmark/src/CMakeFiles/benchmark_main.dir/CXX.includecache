@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../utils/benchmark/include/benchmark/benchmark.h
+stdint.h
+-
+algorithm
+-
+cassert
+-
+cstddef
+-
+iosfwd
+-
+string
+-
+vector
+-
+map
+-
+set
+-
+type_traits
+-
+initializer_list
+-
+utility
+-
+intrin.h
+-
+
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/utils/benchmark/src/benchmark_main.cc
+benchmark/benchmark.h
+/home/king/ollvm/llvm-project-llvmorg-9.0.1/llvm/utils/benchmark/src/benchmark/benchmark.h
+
